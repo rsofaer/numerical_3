@@ -98,5 +98,16 @@ In hex, this is $\tilde{x} = [3ff000000000039b, bff00000000004b0]$.\\
 $$\tilde{x}-x^*= [-2.04947170345804 * 10^{-13}, 2.66453525910038 * 10^{-13}]$$
 In hex, this is $\tilde{x}-x^* = [bd4cd80000000000 3d52c00000000000]$.\\
 \subsection{Compute the residuals $r*$ and $\tilde{r}$}
+The residual $r^* = b-Ax^*=[-5.55111512312578e-17; 1.38777878078145e-17]$\\
+In hex: $r^* = b-Ax^*=[bc90000000000000; 3c70000000000000]$\\
+The residual $\tilde{r} = b-A\tilde{x}=[-5.55111512312578e-17; -5.55111512312578e-17]$\\
+In hex: $\tilde{r} = b-A\tilde{x}=[bc90000000000000; bc90000000000000]$\\
+
+$$||r^*||=5.72195849815280e-17$$
+$$||\tilde{r}||=7.85046229341888e-17$$
+The residual for the exact answer, $r^*$ is smaller than the residual for $\tilde{r}$, but only by a very small amount ($2.12850379526608e-17$).
+
+\subsection{Let $\hat{x}$ be a potential solution... 
+Show mathematically that E satisfies $(A+E)\hat{x}=b$}
 
 \end{document}
