@@ -52,7 +52,7 @@
 %%   Grave accent  \`     Left brace    \{     Vertical bar  \|
 %%   Right brace   \}     Tilde         \~}
 \NeedsTeXFormat{LaTeX2e}[1995/12/01]
-\ProvidesClass{article}
+\ProvidesClass{modart}
               [2007/10/19 v1.4h
  Standard LaTeX document class]
 \newcommand\@ptsize{}
