@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  22 FEB 2012 14:02
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2011.7.3)  22 FEB 2012 22:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -291,8 +291,8 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 ! Undefined control sequence.
 \f@ncyolf ->\lastxmark 
                        \strut 
-l.89 \section
-             {Error analysis of the Taylor series expansion of a smooth func...
+l.88 ...ruby interpreter again to come out with $$
+                                                  1.5707963267948966/2=\pi/4$$
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -300,20 +300,99 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 94--98
+Underfull \hbox (badness 10000) in paragraph at lines 102--131
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--100
+! LaTeX Error: There's no line here to end.
 
- []
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.132 \newline
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
-AED: lastpage setting LastPage 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.133 \newline
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
 ! Undefined control sequence.
 \f@ncyolf ->\lastxmark 
                        \strut 
-l.102 \end{document}
+l.135 \begin{tabular}
+                     {|c|c|c|c|}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[3]
+Overfull \hbox (23.80704pt too wide) in paragraph at lines 135--165
+[][] 
+ []
+
+! Undefined control sequence.
+\f@ncyolf ->\lastxmark 
+                       \strut 
+l.174 
+      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 175--204
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--214
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 214--216
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 217--221
+
+ []
+
+! Undefined control sequence.
+\f@ncyolf ->\lastxmark 
+                       \strut 
+l.222 $
+       $||r^*||=5.72195849815280e-17$$
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[5] AED: lastpage setting LastPage 
+! Undefined control sequence.
+\f@ncyolf ->\lastxmark 
+                       \strut 
+l.255 \end{document}
                     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -321,31 +400,32 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[3] (./SofaerHW3.aux) ) 
+[6] (./SofaerHW3.aux) ) 
 Here is how much of TeX's memory you used:
- 2394 strings out of 493633
- 33309 string characters out of 3143378
- 94670 words of memory out of 3000000
- 5666 multiletter control sequences out of 15000+200000
+ 2395 strings out of 493633
+ 33325 string characters out of 3143378
+ 99670 words of memory out of 3000000
+ 5667 multiletter control sequences out of 15000+200000
  11087 words of font info for 42 fonts, out of 3000000 for 9000
  831 hyphenation exceptions out of 8191
- 42i,10n,43p,324b,196s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,11n,43p,324b,198s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2011/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmbx12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/am
 sfonts/cm/cmcsc10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmmi10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmmi12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmmi8.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmr10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmr12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmr8.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/c
-msy10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-sy8.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti
-12.pfb>
-Output written on SofaerHW3.pdf (3 pages, 122698 bytes).
+sfonts/cm/cmex10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmmi10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmmi12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmmi8.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr8.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sy10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cms
+y8.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/amsfonts/cm/cmti1
+2.pfb>
+Output written on SofaerHW3.pdf (6 pages, 143910 bytes).
 PDF statistics:
- 58 PDF objects out of 1000 (max. 8388607)
- 41 compressed objects within 1 object stream
+ 71 PDF objects out of 1000 (max. 8388607)
+ 50 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
